@@ -2,8 +2,11 @@ name: Update IPTV Playlist
 
 on:
   schedule:
-    - cron: '17 * * * *' # Hər saatın 17-ci dəqiqəsində avtomatik işləyir
-  workflow_dispatch: # Əl ilə (Manual) istənilən vaxt işə salmaq üçün düymə
+    - cron: '17 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update:
@@ -32,5 +35,6 @@ jobs:
         run: |
           git config --global user.name "GitHub Actions Bot"
           git config --global user.email "actions@github.com"
+          git pull origin main --rebase
           git add iptv-automation/playlist.m3u
           git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update playlist.m3u [skip ci]" && git push)
