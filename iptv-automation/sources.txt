@@ -1,3 +1,4 @@
 https://dearbulut.github.io/iptv/playlists/language/aze.m3u
 https://iptv-org.github.io/iptv/languages/aze.m3u
 https://dearbulut.github.io/iptv/playlists/country/tr.m3u
+https://raw.githubusercontent.com/qazim/IPTV/refs/heads/main/all_channels.m3u
