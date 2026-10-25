@@ -1,1 +1,3 @@
 # Hər sətirdə yalnız istifadə və yenidən paylaşma hüququnuz olan M3U/M3U8 URL-i yazın.\n# İcazəli mənbə əlavə etməyənə qədər workflow playlist.m3u faylını dəyişməyəcək.\n
+
+https://dearbulut.github.io/iptv/playlists/language/aze.m3u
