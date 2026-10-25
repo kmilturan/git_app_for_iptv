@@ -1,1 +1,2 @@
 https://dearbulut.github.io/iptv/playlists/language/aze.m3u
+https://iptv-org.github.io/iptv/languages/aze.m3u
