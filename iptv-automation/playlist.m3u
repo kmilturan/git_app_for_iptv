@@ -69,6 +69,8 @@ https://mumbai-edge.smartplaytv.in/BloombergHT/index.m3u8
 http://139.162.182.79/live/test/index.m3u8
 #EXTINF:-1 group-title="Undefined",BRTV (720p)
 https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
+#EXTINF:-1 group-title="Animation",Cartoon Network
+http://176.65.153.40:6002/play/a013/index.m3u8
 #EXTINF:-1 group-title="Education",Ciftci TV (720p)
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 #EXTINF:-1 group-title="Business",CNBC-e (1080p)
@@ -225,14 +227,14 @@ https://tjktv-live.tjk.org/tjktv.m3u8
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" group-title="Turkiye - Esas",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Undefined",TRT 2 (1440p)
+https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Undefined",TRT 3 (720p)
 https://tv-trt3.live.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="News",TRT Arabi (1440p)
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Undefined",TRT Avaz (1440p)
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Kids",TRT Cocuk (1440p)
-https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Kids",TRT Diyanet Cocuk (1440p)
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Education",TRT EBA (720p)
@@ -341,10 +343,12 @@ https://xezer.tvstream.az/hls/stream/main_stream.m3u8
 http://stream.mcquack.net/182/index.m3u8
 #EXTINF:-1 group-title="Rus",Cinema
 http://flussonic.linkintel.ru/cinema/index.m3u8
+#EXTINF:-1 group-title="Rus",Domkino
+http://stream.mcquack.net/236/index.m3u8
+#EXTINF:-1 group-title="Rus",Dom kino Premium HD (1080p)
+http://stream.mcquack.net/108/index.m3u8
 #EXTINF:-1 group-title="Rus",Evrokino HD (1080p)
 http://stream.mcquack.net/385/index.m3u8
-#EXTINF:-1 group-title="Rus",Indiyskoye Kino (576p)
-http://stream.mcquack.net/104/index.m3u8
 #EXTINF:-1 group-title="Rus",Kino TV SD (576p)
 http://stream.mcquack.net/221/index.m3u8
 #EXTINF:-1 group-title="Rus",Kinokomedija (576p)
@@ -357,20 +361,32 @@ http://stream.mcquack.net/64/index.m3u8
 http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
 #EXTINF:-1 group-title="Rus",Kinosemja (576p)
 http://stream.mcquack.net/170/index.m3u8
+#EXTINF:-1 group-title="Rus",Kinouzhas (576p)
+http://stream.mcquack.net/278/index.m3u8
 #EXTINF:-1 group-title="Rus",Kinosvidanie (576p)
 http://stream.mcquack.net/171/index.m3u8
+#EXTINF:-1 group-title="Rus",Muzhskoe kino (576p)
+http://stream.mcquack.net/107/index.m3u8
+#EXTINF:-1 group-title="Rus",Ostrosyuzhetnoye HD (1080p)
+http://stream.mcquack.net/214/index.m3u8
+#EXTINF:-1 group-title="Rus",Premialnoe HD (1080p)
+http://stream.mcquack.net/421/index.m3u8
 #EXTINF:-1 group-title="Rus",viju TV1000 (576p)
 http://stream.mcquack.net/110/index.m3u8
 #EXTINF:-1 group-title="Rus",viju TV1000 action (576p)
 http://stream.mcquack.net/100/index.m3u8
+#EXTINF:-1 group-title="Rus",viju+ Comedy HD (1080p)
+http://stream.mcquack.net/201/index.m3u8
 #EXTINF:-1 group-title="Rus",viju+ Megahit HD (1080p)
 http://stream.mcquack.net/200/index.m3u8
 #EXTINF:-1 group-title="Rus",viju+ Premiere HD (1080p)
 http://stream.mcquack.net/202/index.m3u8
 #EXTINF:-1 group-title="Rus",viju+ Planet HD (1080p)
 http://stream.mcquack.net/240/index.m3u8
-#EXTINF:-1 group-title="Rus",Investigation Discovery (1080p)
-http://stream.mcquack.net/205/index.m3u8
+#EXTINF:-1 group-title="Rus",Nauka (576p)
+http://stream.mcquack.net/125/index.m3u8
+#EXTINF:-1 group-title="Rus",Discovery Channel (1080p)
+http://stream.mcquack.net/177/index.m3u8
 #EXTINF:-1 group-title="Rus",National Geographic (576p)
 http://stream.mcquack.net/116/index.m3u8
 #EXTINF:-1 group-title="Rus",viju Explore (576p)
