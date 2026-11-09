@@ -99,6 +99,8 @@ https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" group-title="Turkiye - Esas",Kanal D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+#EXTINF:-1 group-title="News",Finans Turk TV (720p)
+https://yayin30.haber100.com/live/finansturk/playlist.m3u8
 #EXTINF:-1 group-title="News",Flash Haber TV (1080p)
 https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle",Fortuna TV (1080p)
@@ -235,12 +237,12 @@ https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Kids",TRT Diyanet Cocuk (1440p)
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Education",TRT EBA (720p)
-https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Education",TRT EBA Ilkokul (720p)
 https://tv-e-okul00.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr" group-title="Xeber",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Undefined",TRT Kurdi (1440p)
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Music",TRT Muzik (1440p)
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTSpor.tr" group-title="Idman",TRT Spor
@@ -305,38 +307,10 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8?hash=b9cbd0e320ad2533eb435ec21
 https://host.onlineradyotv.net:8081/cine5tv/index.m3u8
 #EXTINF:-1 group-title="Turk",Tele1 HD
 https://tele1-live.ercdn.net/tele1/tele1.m3u8
-#EXTINF:-1 group-title="azeri-muzik",kanal-65
-https://v2.catcast.tv/content/47437/index.m3u8?token=4475930e4bcb3c68683cbc59a8b0e68c
-#EXTINF:-1 group-title="azeri-muzik",now-music
-https://v2.catcast.tv/content/48694/index.m3u8?token=e42b9eb53becbe5600a9ef4825dcbbda
-#EXTINF:-1 group-title="azeri-muzik",rihatmusic
-https://v2.catcast.tv/content/48076/index.m3u8?token=8d4320a4674d15354a57c05d357ba639
-#EXTINF:-1 group-title="azeri-muzik",turkuzplay1
-https://v2.catcast.tv/content/48591/index.m3u8?token=6bc19094c3402e20afb669d04576d405
 #EXTINF:-1 group-title="Catcast-Film-tv",kino-1
 https://kino-1.catcast.tv/content/38617/index.m3u8?token=a1a93928b2877e93f55d1e67a0f91be1
-#EXTINF:-1 group-title="Catcast-Film-tv",Strax-TV
-https://s.catcast.tv/content/34816/index.m3u8?token=1ef8f47f778c150166e71002684b6e8e
-#EXTINF:-1 group-title="Catcast-Film-tv",Fenix SSSR
-https://v2.catcast.tv/content/40102/index.m3u8?token=ccf61ca88abeaf4c3774afb018fa87c9
 #EXTINF:-1 group-title="Catcast-Film-tv",Detektiv-TV
 https://cityeden.catcast.tv/content/41327/index.m3u8?token=9a3f8bed633af331243b460e3a98f8ab
-#EXTINF:-1 group-title="Catcast-Film-tv",Action-TV
-https://v2.catcast.tv/content/36517/index.m3u8?token=f83b04b6cb63af2827444ff6f8131bba
-#EXTINF:-1 group-title="Catcast-Film-tv",Komedi-az-TV
-https://v2.catcast.tv/content/50370/index.m3u8?token=ecca85c081845b87b10542ef183b8a66
-#EXTINF:-1 group-title="Catcast-Film-tv",PlayerCinema-TV
-https://v2.catcast.tv/content/50372/index.m3u8?token=c74a26c431e9b3694c539fe25457395e
-#EXTINF:-1 group-title="Catcast-Film-tv",PlayerFilmAzerbaycan-TV
-https://v2.catcast.tv/content/50472/index.m3u8?token=30da05b01becbe38903c6188d7793e97
-#EXTINF:-1 group-title="Catcast-Film-tv",Azeri-Retro filmler
-https://v2.catcast.tv/content/50852/index.m3u8?token=a7fad1ac6bc712229fdf010e88e8253c
-#EXTINF:-1 group-title="Catcast-Film-tv",playercinema-hind_filmleri-2
-https://v2.catcast.tv/content/50892/index.m3u8?token=bb3d7d72fc3973d0596732323d36324d
-#EXTINF:-1 group-title="Catcast-Film-tv",playercinema-hind_filmleri-5
-https://v2.catcast.tv/content/50895/index.m3u8?token=b9d504d5eaaf4f053f1815690d87ad8e
-#EXTINF:-1 group-title="Catcast-Film-tv",playercinema-premium-5
-https://v2.catcast.tv/content/50961/index.m3u8?token=0aa17030c6bb5b1661799e70ca3daaca
 #EXTINF:-1 tvg-id="KhazarTV.az" group-title="Azerbaycan",Xəzər TV
 https://xezer.tvstream.az/hls/stream/main_stream.m3u8
 #EXTINF:-1 group-title="Rus",Fox HD
@@ -345,8 +319,12 @@ http://stream.mcquack.net/182/index.m3u8
 http://flussonic.linkintel.ru/cinema/index.m3u8
 #EXTINF:-1 group-title="Rus",Domkino
 http://stream.mcquack.net/236/index.m3u8
+#EXTINF:-1 group-title="Rus",Dom kino Premium HD (1080p)
+http://stream.mcquack.net/108/index.m3u8
 #EXTINF:-1 group-title="Rus",Evrokino HD (1080p)
 http://stream.mcquack.net/385/index.m3u8
+#EXTINF:-1 group-title="Rus",Indiyskoye Kino (576p)
+http://stream.mcquack.net/104/index.m3u8
 #EXTINF:-1 group-title="Rus",Kino TV SD (576p)
 http://stream.mcquack.net/221/index.m3u8
 #EXTINF:-1 group-title="Rus",KinoHit (576p)
@@ -359,10 +337,12 @@ http://stream.mcquack.net/133/index.m3u8
 http://stream.mcquack.net/64/index.m3u8
 #EXTINF:-1 group-title="Rus",Kinosemja (576p)
 http://stream.mcquack.net/170/index.m3u8
-#EXTINF:-1 group-title="Rus",Kinouzhas (576p)
-http://stream.mcquack.net/278/index.m3u8
 #EXTINF:-1 group-title="Rus",Kinosvidanie (576p)
 http://stream.mcquack.net/171/index.m3u8
+#EXTINF:-1 group-title="Rus",Muzhskoe kino (576p)
+http://stream.mcquack.net/107/index.m3u8
+#EXTINF:-1 group-title="Rus",Ostrosyuzhetnoye HD (1080p)
+http://stream.mcquack.net/214/index.m3u8
 #EXTINF:-1 group-title="Rus",Premialnoe HD (1080p)
 http://stream.mcquack.net/421/index.m3u8
 #EXTINF:-1 group-title="Rus",viju TV1000 (576p)
@@ -377,14 +357,8 @@ http://stream.mcquack.net/202/index.m3u8
 http://stream.mcquack.net/240/index.m3u8
 #EXTINF:-1 group-title="Rus",Nauka (576p)
 http://stream.mcquack.net/125/index.m3u8
-#EXTINF:-1 group-title="Rus",Discovery Channel (1080p)
-http://stream.mcquack.net/177/index.m3u8
-#EXTINF:-1 group-title="Rus",Investigation Discovery (1080p)
-http://stream.mcquack.net/205/index.m3u8
 #EXTINF:-1 group-title="Rus",National Geographic (576p)
 http://stream.mcquack.net/116/index.m3u8
-#EXTINF:-1 group-title="Rus",viju Explore (576p)
-http://stream.mcquack.net/239/index.m3u8
 #EXTINF:-1 group-title="Rus",viju History (576p)
 http://stream.mcquack.net/101/index.m3u8
 #EXTINF:-1 group-title="Rus",viju Nature (576p)
