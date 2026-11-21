@@ -27,10 +27,10 @@ https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
 https://ncdn.telewebion.ir/azarbayjangharbi/live/playlist.m3u8
 #EXTINF:-1 group-title="General",GunAz TV
 https://tv.gunaz.tv/hls/live.m3u8
-#EXTINF:-1 group-title="News",APA Tv
-http://stream.apa.tv/apastream/index.m3u8
-#EXTINF:-1 group-title="General",EL TV (260p)
-http://85.132.53.162:1935/live/eltv/playlist.m3u8
+#EXTINF:-1 tvg-id="ARB24.az" group-title="Xeber",ARB 24
+https://operativmm.az/tvs/arb24/stream/index.m3u8
+#EXTINF:-1 group-title="General",EL TV [Not 24/7]
+https://live.eltv.az/live/eltv/playlist.m3u8
 #EXTINF:-1 group-title="News",Kapaz TV [Geo-blocked]
 http://85.132.78.122:8050/hls/stream/index.m3u8
 #EXTINF:-1 group-title="News",24 TV (720p)
@@ -243,18 +243,16 @@ https://tv-trt3.live.trt.com.tr/master.m3u8
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Undefined",TRT Avaz (1440p)
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Kids",TRT Cocuk (1440p)
-https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Kids",TRT Diyanet Cocuk (1440p)
-https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Education",TRT EBA (720p)
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Education",TRT EBA Ilkokul (720p)
 https://tv-e-okul00.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Education",TRT EBA Lise (720p)
 https://tv-e-okul02.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTHaber.tr" group-title="Xeber",TRT Haber
-https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="General",TRT Genc (1440p)
+https://tv-trtgenc.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Undefined",TRT Kurdi (1440p)
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Music",TRT Muzik (1440p)
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTSpor.tr" group-title="Idman",TRT Spor
@@ -263,6 +261,8 @@ https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="News",TRT World (1080p)
 https://cdn.pishow.tv/ott/live/266/master.m3u8
+#EXTINF:-1 group-title="Undefined",TV 264 (1080p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",TV 4 (720p)
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:-1 group-title="Undefined",TV 41 (720p)
@@ -313,10 +313,38 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 https://host.onlineradyotv.net:8081/cine5tv/index.m3u8
 #EXTINF:-1 group-title="Turk",Tele1 HD
 https://tele1-live.ercdn.net/tele1/tele1.m3u8
+#EXTINF:-1 group-title="azeri-muzik",kanal-65
+https://v2.catcast.tv/content/47437/index.m3u8?token=2e7cb014fa4f8adc37b80e7b016e539b
+#EXTINF:-1 group-title="azeri-muzik",now-music
+https://v2.catcast.tv/content/48694/index.m3u8?token=4982509197eec94fcfbb26d37d50b73c
+#EXTINF:-1 group-title="azeri-muzik",rihatmusic
+https://v2.catcast.tv/content/48076/index.m3u8?token=7790fe198059fe45e24ca427b0b093fb
+#EXTINF:-1 group-title="azeri-muzik",turkuzplay1
+https://v2.catcast.tv/content/48591/index.m3u8?token=f463f58dde0ea13393180632951dd924
 #EXTINF:-1 group-title="Catcast-Film-tv",kino-1
-https://kino-1.catcast.tv/content/38617/index.m3u8?token=08565b66bd36adac9e3272010bdeed62
+https://kino-1.catcast.tv/content/38617/index.m3u8?token=1eb6d46856b71e4a3e9b1f9dc73afa1e
+#EXTINF:-1 group-title="Catcast-Film-tv",Strax-TV
+https://s.catcast.tv/content/34816/index.m3u8?token=3ad3c97afce9e1658c6f84bb08489867
+#EXTINF:-1 group-title="Catcast-Film-tv",Fenix SSSR
+https://v2.catcast.tv/content/40102/index.m3u8?token=acf6a1c23ec80b2ecdee9d896f1dfb26
 #EXTINF:-1 group-title="Catcast-Film-tv",Detektiv-TV
-https://cityeden.catcast.tv/content/41327/index.m3u8?token=c4fb47ef39f27f944e39d4dd2065555a
+https://cityeden.catcast.tv/content/41327/index.m3u8?token=362703cbe69ae31f81972af7bd756e1e
+#EXTINF:-1 group-title="Catcast-Film-tv",Action-TV
+https://v2.catcast.tv/content/36517/index.m3u8?token=a1acc113e5f75b4aee3e03792bdce70f
+#EXTINF:-1 group-title="Catcast-Film-tv",Komedi-az-TV
+https://v2.catcast.tv/content/50370/index.m3u8?token=f82d1d7dcb4ba2eee0f472a488c5f025
+#EXTINF:-1 group-title="Catcast-Film-tv",PlayerCinema-TV
+https://v2.catcast.tv/content/50372/index.m3u8?token=0c82991917aaf554d331ea3f060e86fe
+#EXTINF:-1 group-title="Catcast-Film-tv",PlayerFilmAzerbaycan-TV
+https://v2.catcast.tv/content/50472/index.m3u8?token=18d03494e9923a0608c6d30b9b742988
+#EXTINF:-1 group-title="Catcast-Film-tv",Azeri-Retro filmler
+https://v2.catcast.tv/content/50852/index.m3u8?token=afc558b15e016551ff1f01d29b0468df
+#EXTINF:-1 group-title="Catcast-Film-tv",playercinema-hind_filmleri-2
+https://v2.catcast.tv/content/50892/index.m3u8?token=acbc3dd06581ae8685531d5bc8eb5524
+#EXTINF:-1 group-title="Catcast-Film-tv",playercinema-hind_filmleri-5
+https://v2.catcast.tv/content/50895/index.m3u8?token=eef48fb915a459a2cc17d7ecb078ad1d
+#EXTINF:-1 group-title="Catcast-Film-tv",playercinema-premium-5
+https://v2.catcast.tv/content/50961/index.m3u8?token=a1619472e88508b36ca6c817cda4dd9d
 #EXTINF:-1 group-title="Azeri",Ayaz TV (720p)
 https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
 #EXTINF:-1 group-title="Rus",viju Nature (576p)
